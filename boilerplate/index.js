@@ -3,4 +3,4 @@
 
 const main  = require("./lib/main")
 
-main()
+console.log(main())
