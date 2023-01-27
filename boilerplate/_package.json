@@ -6,13 +6,10 @@
   "author": "{{author}}",
   "homepage": "https://github.com/189/boilerplate-lib-js",
   "scripts": {
-    "test": "node test/test.ts",
-    "pretest": "npm run build",
-    "prepare": "husky install"
+    "start": "node index.js",
+    "test": "node test/test.js"
   },
-  "dependencies": {
-    "ms": "^2.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@commitlint/cli": "^16.2.4",
     "@commitlint/config-conventional": "^16.2.4",

@@ -1,6 +1,6 @@
-function start() {
-  // do something
-}
 
 
-start()
+
+const main  = require("./lib/main")
+
+main()
