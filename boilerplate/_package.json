@@ -6,12 +6,11 @@
   "author": "{{author}}",
   "homepage": "https://github.com/189/boilerplate-lib-js",
   "scripts": {
-    "test": "ts-node test/test.ts",
+    "test": "node test/test.ts",
     "pretest": "npm run build",
     "prepare": "husky install"
   },
   "dependencies": {
-    "@types/node": "^18.11.18",
     "ms": "^2.0.0"
   },
   "devDependencies": {
