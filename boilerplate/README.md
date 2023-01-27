@@ -1,4 +1,4 @@
-# rollup-lib-js
+# {{name}}
 
 ### Install
 
