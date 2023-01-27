@@ -4,7 +4,7 @@ const assert = require("node:assert")
 const main = require("../lib/main")
 
 function test() {
-  assert.equal(main() === "Hello world")
+  assert.equal(main() === "Hello there!")
 }
 
 test()

@@ -1,6 +1,6 @@
 
 function main() {
-  return "Hello world"
+  return "Hello there!"
 }
 
 module.exports = main
